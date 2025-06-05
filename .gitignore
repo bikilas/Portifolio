@@ -1,0 +1,4 @@
+# Ignore node_modules and cache
+node_modules/
+*.log
+.env

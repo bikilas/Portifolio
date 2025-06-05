@@ -1,0 +1,24 @@
+# Terminal Environment Changes
+
+## Extension: GitHub.copilot-chat
+
+Enables use of the `copilot-debug` command in the terminal.
+
+- `PATH=${env:PATH}:/home/by/.config/Code/User/globalStorage/github.copilot-chat/debugCommand`
+
+## Extension: vscode.git
+
+Enables the following features: git auth provider
+
+- `GIT_ASKPASS=/snap/code/195/usr/share/code/resources/app/extensions/git/dist/askpass.sh`
+- `VSCODE_GIT_ASKPASS_NODE=/snap/code/195/usr/share/code/code`
+- `VSCODE_GIT_ASKPASS_EXTRA_ARGS=`
+- `VSCODE_GIT_ASKPASS_MAIN=/snap/code/195/usr/share/code/resources/app/extensions/git/dist/askpass-main.js`
+- `VSCODE_GIT_IPC_HANDLE=/run/user/1000/vscode-git-cc090e0a75.sock`
+
+## Extension: ms-python.python
+
+- `VIRTUAL_ENV=/home/by/.local/share/virtualenvs/storefront-tI5u_cBC`
+- `VIRTUAL_ENV_PROMPT=storefront`
+- `PS1=storefront${env:PS1}`
+- `PATH=/home/by/.vscode/extensions/ms-python.python-2025.6.1-linux-x64/python_files/deactivate/bash:/home/by/.local/share/virtualenvs/storefront-tI5u_cBC/bin:${env:PATH}`
