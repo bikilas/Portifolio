@@ -23,7 +23,7 @@ const About = () => {
           <Col md={7}>
             <Fade duration={3000}>
               <p className="home-about-body">
-                My name is <b className="purple">Bikila TAriku </b> 
+                My name is <b className="purple">Bikila Tariku </b> 
                   and I am a <b className="purple">software Engineering </b> 
                     student at <b className="purple"> Addi Ababa University </b>
                       in Ethiopia
