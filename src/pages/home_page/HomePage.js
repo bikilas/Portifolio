@@ -30,7 +30,7 @@ export default function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> Bikila TAriku </strong>
+                <strong className="main-name"> Bikila Tariku </strong>
               </h1>
 
               <div className="typing-homeclass">
