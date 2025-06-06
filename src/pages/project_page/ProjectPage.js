@@ -111,7 +111,7 @@ export default function ProjectPage() {
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/bikilas/Machine_Learning/tree/main/Phishing_Website_Detection"
+                                      "https://github.com/bikilas/Phishing-Website-Detection"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
