@@ -297,7 +297,7 @@ export default function ProjectPage() {
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/bikilas/Personal-Portfolio"
+                                      "https://portifolio-git-main-bikila-tariku-s-projects.vercel.app/"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
