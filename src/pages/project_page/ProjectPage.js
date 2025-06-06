@@ -50,7 +50,7 @@ export default function ProjectPage() {
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/bikilas/Web_Programming/tree/main/Web-Scraping"
+                                      "https://github.com/bikilas/dev-scrape.git"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
