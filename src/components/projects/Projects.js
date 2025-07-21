@@ -94,72 +94,7 @@ export default function Projects() {
                     backgroundColor: "rgb(142 70 186 / 31%)",
                     border: "1px solid",
                   }}
-                >
-                  {/* <div className="projectContent">
-                    <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                      Pishing Wabsite Detection
-                    </h5>
-                    <img src={hd} alt={hd} />
-                    <div className="project--showcaseBtn">
-                      <a
-                        href={
-                          "https://github.com/MD-bikilas/Web_Programming/tree/main/Phishing_Website_Detection"
-                        }
-                          
-            
-                        target="_blank"
-                        rel="noreferrer"
-                        className={"iconBtn"}
-                        aria-labelledby={`code`}
-                      >
-                        <FaCode
-                          id={`code`}
-                          className={"icon"}
-                          aria-label="Code"
-                        />
-                      </a>
-                    </div>
-                  </div>
-                  <h6>
-                    <p
-                      className="project--desc"
-                      style={{
-                        background: "#fbd9ad",
-                        color: "#b061df",
-                        fontWeight: 600,
-                      }}
-                    >
-                      The Phishing Website Detection Project is a cutting-edge
-                      solution that harnesses the power of machine learning to
-                      detect and prevent phishing attacks on websites. By
-                      leveraging advanced algorithms and data analysis, the
-                      project ensures that users are protected from potential
-                      threats.
-                    </p>
-                  </h6>
-                  <div
-                    className="project--lang"
-                    style={{
-                      background: "#fbd9ad",
-                      color: "#b061df",
-                      fontWeight: 600,
-                    }}
-                  >
-                    Pandas, Matplotlib, Scikit-Learn
-                  </div>
-                </div>
-              </Fade>
-            </Col>
-            <Col md={3}>
-              <Fade bottom>
-                <div
-                  key={1}
-                  className="singleProject"
-                  style={{
-                    backgroundColor: "rgb(142 70 186 / 31%)",
-                    border: "1px solid",
-                  }}
-                // > */}
+               
                   <div className="projectContent">
                     <h5 id={"first"} style={{ color: "#fbd9ad" }}>
                       Online Payroll Management System
