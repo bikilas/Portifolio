@@ -95,7 +95,7 @@ export default function Projects() {
                     border: "1px solid",
                   }}
                 >
-                  <div className="projectContent">
+                  {/* <div className="projectContent">
                     <h5 id={"first"} style={{ color: "#fbd9ad" }}>
                       Pishing Wabsite Detection
                     </h5>
@@ -159,7 +159,7 @@ export default function Projects() {
                     backgroundColor: "rgb(142 70 186 / 31%)",
                     border: "1px solid",
                   }}
-                >
+                // > */}
                   <div className="projectContent">
                     <h5 id={"first"} style={{ color: "#fbd9ad" }}>
                       Online Payroll Management System
