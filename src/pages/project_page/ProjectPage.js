@@ -165,13 +165,13 @@ export default function ProjectPage() {
                             >
                               <div className="projectPageContent">
                                 <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                  Online Payroll Management System
+                                  Online Cafe_Automation System
                                 </h5>
                                 <img src={ci} alt={ci} />
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/bikilas/Online-Payroll-Management-System"
+                                      "https://github.com/bikilas/Cafe_Automation.git"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
@@ -195,12 +195,10 @@ export default function ProjectPage() {
                                     fontWeight: 600,
                                   }}
                                 >
-                                  A Payroll management System with feature like
-                                  generate payslip & reports. It manages
-                                  salaries, leaves, branches, employees,
-                                  designations, shifts, holidays and employee
-                                  attendance. It has chat application so
-                                  internal employees can use that feature.
+                                  Cafe Automation System is a user-friendly system that
+                                   automates the ordering and payment process for a cafe. 
+                                   It streamlines the customer experience by simplifying 
+                                   the ordering process and ensuring a smooth payment experience.
                                 </p>
                               </h6>
                               <div
@@ -228,13 +226,13 @@ export default function ProjectPage() {
                             >
                               <div className="projectContent">
                                 <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                  Shoppy Ecommerce
+                                  Shopping Website
                                 </h5>
                                 <img src={eco} alt={eco} />
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/bikilas/Shoppy_Ecommerce"
+                                      "https://e-commerce-mobile01.onrender.com/"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
@@ -352,13 +350,13 @@ export default function ProjectPage() {
                             >
                               <div className="projectContent">
                                 <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                  Amazing Meal
+                                  ersha
                                 </h5>
                                 <img src={meal} alt={meal} />
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/bikilas/Amazing_Meal"
+                                      "https://github.com/bikilas/ersha.git"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
@@ -382,12 +380,11 @@ export default function ProjectPage() {
                                     fontWeight: 600,
                                   }}
                                 >
-                                  Indulge in a mouthwatering meal that combines
-                                  flavors and textures to create a culinary
-                                  masterpiece. Our carefully crafted dishes are
-                                  made with the freshest ingredients, expertly
-                                  prepared to satisfy your taste buds and leave
-                                  you craving for more.
+                                  Ersha is a food delivery app that allows users
+                                  to order food from their favorite restaurants
+                                  and have it delivered to their doorstep.
+                                  Users can browse menus, customize orders, and
+                                  track deliveries in real-time.
                                 </p>
                               </h6>
                               <div

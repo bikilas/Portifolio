@@ -4,7 +4,6 @@ import Zoom from "react-reveal/Zoom";
 import { Fade } from "react-reveal";
 import nyc from "../../images/nyc.png";
 import ci from "../../images/onboarding.png";
-import hd from "../../images/hd.png";
 import pp from "../../images/portfolio.png";
 import { FaCode } from "react-icons/fa";
 import { Link } from "react-router-dom";
@@ -42,7 +41,7 @@ export default function Projects() {
                     <div className="project--showcaseBtn">
                       <a
                         href={
-                          "https://github.com/bikilas/Web_Programming/tree/main/dev-scraping"
+                          "https://github.com/funstesec2g2/dev-scrape.git"
                         }
                         target="_blank"
                         rel="noreferrer"
@@ -162,13 +161,13 @@ export default function Projects() {
                 // > */}
                   <div className="projectContent">
                     <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                      Online Payroll Management System
+                      Online Cafe_Automation System
                     </h5>
                     <img src={ci} alt={ci} />
                     <div className="project--showcaseBtn">
                       <a
                         href={
-                          "https://github.com/bikilas/Online-Payroll-Management-System"
+                          "https://github.com/bikilas/Cafe_Automation.git"
                         }
                         target="_blank"
                         rel="noreferrer"
@@ -192,11 +191,12 @@ export default function Projects() {
                         fontWeight: 600,
                       }}
                     >
-                      A Payroll management System with feature like generate
-                      payslip & reports. It manages salaries, leaves, branches,
-                      employees, designations, shifts, holidays and employee
-                      attendance. It has chat application so internal employees
-                      can use that feature.
+                      The Online Cafe Automation Project is a user-friendly
+                      system that automates the ordering and payment process for
+                      a cafe. It streamlines the customer experience by
+                      simplifying the ordering process and ensuring a smooth
+                      payment experience.
+                    
                     </p>
                   </h6>
                   <div
@@ -230,7 +230,7 @@ export default function Projects() {
                     <div className="project--showcaseBtn">
                       <a
                         href={
-                          "https://github.com/bikilas/Personal-Portfolio"
+                          "https://github.com/bikilas/Portifolio.git"
                         }
                         target="_blank"
                         rel="noreferrer"
