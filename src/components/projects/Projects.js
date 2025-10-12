@@ -86,15 +86,15 @@ export default function Projects() {
             </Col>
             <Col md={3}>
               <Fade bottom>
-                <div
-                  key={1}
-                  className="singleProject"
-                  style={{
-                    backgroundColor: "rgb(142 70 186 / 31%)",
-                    border: "1px solid",
-                  }}
-               
-                  <div className="projectContent">
+              <div
+                key={1}
+                className="singleProject"
+                style={{
+                  backgroundColor: "rgb(142 70 186 / 31%)",
+                  border: "1px solid",
+                }}
+              >
+                <div className="projectContent">
                     <h5 id={"first"} style={{ color: "#fbd9ad" }}>
                       Online Cafe_Automation System
                     </h5>
