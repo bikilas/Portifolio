@@ -46,7 +46,7 @@ function EducationJourney() {
             ODA  Special Boarding School
           </h4>
           <p>
-            Studied here from Class 8 to 12th as a part of secondary school
+            Studied here from Class 9 to 12th as a part of secondary school
             Certificate and gained a lot of knowledge in my EUE Examination.
           </p>
         </VerticalTimelineElement>
