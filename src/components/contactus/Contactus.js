@@ -129,7 +129,7 @@ export default function Contactus() {
                       </p>
                     </a>
                     <a
-                      href={`tel:+880 1603-550521`}
+                      href={`tel:+251960314404`}
                       className="personal-details"
                     >
                       <div className="detailsIcon">
